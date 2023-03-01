@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/a/static/css/main.0bed2513.css",
-    "main.js": "/a/static/js/main.c80b60ad.js",
+    "main.js": "/a/static/js/main.e0047ae4.js",
     "static/media/ateneo-logo.svg": "/a/static/media/ateneo-logo.8c2db265ff2446a20edd77fc4347036f.svg",
     "index.html": "/a/index.html",
     "main.0bed2513.css.map": "/a/static/css/main.0bed2513.css.map",
-    "main.c80b60ad.js.map": "/a/static/js/main.c80b60ad.js.map"
+    "main.e0047ae4.js.map": "/a/static/js/main.e0047ae4.js.map"
   },
   "entrypoints": [
     "static/css/main.0bed2513.css",
-    "static/js/main.c80b60ad.js"
+    "static/js/main.e0047ae4.js"
   ]
 }
